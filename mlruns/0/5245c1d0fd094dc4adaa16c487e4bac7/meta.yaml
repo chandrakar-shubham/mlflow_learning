@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/Shubham%20Chandrakar/github/mlflow_learning/mlruns/0/5245c1d0fd094dc4adaa16c487e4bac7/artifacts
+end_time: 1680649612061
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 5245c1d0fd094dc4adaa16c487e4bac7
+run_name: adventurous-hen-687
+run_uuid: 5245c1d0fd094dc4adaa16c487e4bac7
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1680649593313
+status: 3
+tags: []
+user_id: Shubham Chandrakar

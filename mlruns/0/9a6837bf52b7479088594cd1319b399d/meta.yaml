@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/Shubham%20Chandrakar/github/mlflow_learning/mlruns/0/9a6837bf52b7479088594cd1319b399d/artifacts
+end_time: 1680647167160
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 9a6837bf52b7479088594cd1319b399d
+run_name: bedecked-duck-79
+run_uuid: 9a6837bf52b7479088594cd1319b399d
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1680647140387
+status: 3
+tags: []
+user_id: Shubham Chandrakar

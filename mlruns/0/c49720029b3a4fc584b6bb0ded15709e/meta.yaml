@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/Shubham%20Chandrakar/github/mlflow_learning/mlruns/0/c49720029b3a4fc584b6bb0ded15709e/artifacts
+end_time: 1680647373676
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: c49720029b3a4fc584b6bb0ded15709e
+run_name: able-bear-272
+run_uuid: c49720029b3a4fc584b6bb0ded15709e
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1680647362379
+status: 3
+tags: []
+user_id: Shubham Chandrakar
